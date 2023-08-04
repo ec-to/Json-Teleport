@@ -1,18 +1,18 @@
 # 原神点位暂存
 
-## 写在前面
+## 写在前面 
 很多点位抓取后，我并没有第二次测试，可能会没有效。来源也可能会参考到其他人，望见谅。
 
 抓点也不易，希望搬运能够带上github地址。
 
-## 汇总:
-钓鱼点位：
+## 发行汇总 Release Download:
+钓鱼点位 Fishing Point：
 https://github.com/ec-to/Json-Teleport/releases/tag/FishingPoint
 
-活动点位：
+活动点位 Assets：
 https://github.com/ec-to/Json-Teleport/releases/tag/events
 
-## 更新日志：
+## 更新日志 Update：
 
 8.4，传心同视活动点位 第二天
 
@@ -20,5 +20,5 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 7.28，钓鱼点位重整
 
-## 鸣谢
+## 鸣谢 Thanks
 .
