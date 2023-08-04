@@ -12,7 +12,7 @@ https://github.com/ec-to/Json-Teleport/releases/tag/FishingPoint
 活动点位 Assets：
 https://github.com/ec-to/Json-Teleport/releases/tag/events
 
-## 更新日志 Update：
+## 更新日志 Update log：
 
 8.4，传心同视活动点位 第二天
 
