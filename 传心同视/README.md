@@ -3,5 +3,8 @@
 Download：[releases](https://github.com/ec-to/Json-Teleport/releases)
 
 日志： 
-2023.08.03更新\Day1.隐匿树丛的眼睛
+
+2023.08.03 更新/Day1.隐匿树丛的眼睛
+
+2023.08.04 更新/Day2.立于沙丘的身影
 
