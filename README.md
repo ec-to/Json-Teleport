@@ -14,11 +14,13 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 ## 更新日志 Update log：
 
-8.4，传心同视活动点位 第二天
-
-8.3，传心同视活动点位 第一天
+8.3-8.5，传心同视活动点位
 
 7.28，钓鱼点位重整
 
 ## 鸣谢 Thanks
 .
+
+## 更多点位
+茶亭：https://github.com/Xcating/Json_Integration
+Sam5440：https://github.com/Sam5440/Genshin_Impact_Teleport
