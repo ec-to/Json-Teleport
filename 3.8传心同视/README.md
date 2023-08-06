@@ -1,6 +1,6 @@
-## ⚠任务中动物顺序随机出现并不固定。
+# ⚠任务中动物顺序随机出现并不固定。
 
-# 从day4发现告示牌开始后，地图限制了TP传送。可能需要Lerp插值传送。
+## 从day4发现告示牌开始后，地图限制了TP传送。可能需要Lerp插值传送。
 
 Download：[releases](https://github.com/ec-to/Json-Teleport/releases)
 
