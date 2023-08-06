@@ -1,6 +1,7 @@
 # ⚠任务中动物顺序随机出现并不固定。
 
 ## 从day4发现告示牌开始后，地图限制了TP传送。可能需要Lerp插值传送。
+(如果Lerp传送后位置不准确，可以多点几次Lerp。)
 
 Download：[releases](https://github.com/ec-to/Json-Teleport/releases)
 
