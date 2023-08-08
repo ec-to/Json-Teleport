@@ -1,7 +1,7 @@
 # ⚠任务中动物顺序随机出现并不固定。
 
 ## 点击公告牌后地图限制了TP传送。可能需要Lerp插值传送。
-(如果Lerp传送后位置不准确，可以多点几次Lerp。)
+(Lerp传送有BUG，点击后位置可能不准确，建议多点几次Lerp按钮。)
 
 Download：[releases](https://github.com/ec-to/Json-Teleport/releases)
 
@@ -16,3 +16,7 @@ Download：[releases](https://github.com/ec-to/Json-Teleport/releases)
 2023.08.06 更新/Day4.雪中耸动的轮廓
 
 2023.08.07 更新/Day5.高处远眺时偶得
+
+2023.08.08 更新/Day6.游弋星湖的倒映
+
+（更完）
