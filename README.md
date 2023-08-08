@@ -14,7 +14,7 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 ## 更新日志 Update log：
 
-8.3-8.5，传心同视活动点位
+8.3-8.8，传心同视活动点位
 
 7.28，钓鱼点位重整
 
