@@ -1,5 +1,11 @@
 # 原神点位暂存
 
+[![stars](https://badgen.net/github/stars/ec-to/Json-Teleport)](#)
+[![watchers](https://badgen.net/github/watchers/ec-to/Json-Teleport)](#)
+[![tags](https://badgen.net/github/tags/ec-to/Json-Teleport)](https://github.com/ec-to/Json-Teleport/tags)
+[![FishingPoint](https://badgen.net/badge/Fishing%20Point/v3.8)](https://github.com/ec-to/Json-Teleport/releases/tag/FishingPoint)
+[![Events](https://badgen.net/badge/Events/v3.8%20Shared%20Sight)](https://github.com/ec-to/Json-Teleport/releases/tag/events)
+
 ## 写在前面 
 摆烂中...更不更不知道。
 
@@ -9,7 +15,7 @@
 钓鱼点位 Fishing Point：
 https://github.com/ec-to/Json-Teleport/releases/tag/FishingPoint
 
-活动点位 Assets：
+活动点位 Events：
 https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 ## 更新日志 Update log：
