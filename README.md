@@ -20,14 +20,14 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 ## 更新日志 Update log：
 
-8.3-8.8，传心同视活动点位(Shared Sight)
+8.3-8.8，v3.8传心同视活动点位(Shared Sight)
 
 7.28，钓鱼点位重整(Fishing Point)
 
 ## 鸣谢 Thanks
 .
 
-## 更多点位
+## 更多点位 More Point
 茶亭：https://github.com/Xcating/Json_Integration
 
 Sam5440：https://github.com/Sam5440/Genshin_Impact_Teleport
