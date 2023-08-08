@@ -27,7 +27,7 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 ## 鸣谢 Thanks
 .
 
-## 更多点位 More Points
+## 更多点位 More Teleport Points
 茶亭：https://github.com/Xcating/Json_Integration
 
 Sam5440：https://github.com/Sam5440/Genshin_Impact_Teleport
