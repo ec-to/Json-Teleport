@@ -11,6 +11,8 @@
 
 很多点位抓取后，我并没有第二次测试，可能会没有效。来源也可能会参考到其他人，望见谅。
 
+还有些呢算是搬运吧，能授权的会争取授权，作者不详的 如有侵权请 [issues](https://github.com/ec-to/Json-Teleport/issues) 联系我
+
 ## 📦发行汇总 Release Download:
 大世界 有点杂 World Exploration：
 https://github.com/ec-to/Json-Teleport/releases/tag/Exploration
@@ -23,7 +25,7 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 ## 📃更新日志 Update log：
 
-8.10, 渊下宫任务tp点位 (作者不详,如侵权请 [issues](/issues) 联系我)
+8.10, 渊下宫任务tp点位 (作者不详,如侵权请 [issues](https://github.com/ec-to/Json-Teleport/issues) 联系我)
 
 8.3-8.8，v3.8传心同视活动点位(Shared Sight)
 
