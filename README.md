@@ -28,6 +28,10 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 .
 
 ## 📍更多点位 More Teleport Points
-茶亭：https://github.com/Xcating/Json_Integration
+
+Xcating：https://github.com/Xcating/Json_Integration
+
+chiqingsan：https://github.com/chiqingsan/Teyvat_TP_Json
 
 Sam5440：https://github.com/Sam5440/Genshin_Impact_Teleport
+
