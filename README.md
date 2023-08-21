@@ -3,7 +3,7 @@
 [![stars](https://badgen.net/github/stars/ec-to/Json-Teleport)](#)
 [![watchers](https://badgen.net/github/watchers/ec-to/Json-Teleport)](#)
 [![tags](https://badgen.net/github/tags/ec-to/Json-Teleport)](https://github.com/ec-to/Json-Teleport/tags)
-[![FishingPoint](https://badgen.net/badge/Fishing%20Point/v3.8)](https://github.com/ec-to/Json-Teleport/releases/tag/FishingPoint)
+[![FishingPoint](https://badgen.net/badge/Fishing%20Point/v4.0)](https://github.com/ec-to/Json-Teleport/releases/tag/FishingPoint)
 [![Events](https://badgen.net/badge/Events/v3.8%20Shared%20Sight)](https://github.com/ec-to/Json-Teleport/releases/tag/events)
 
 ## ✍🏻写在前面 
