@@ -25,6 +25,8 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 ## 📃更新日志 Update log：
 
+8.21， 更新4.0枫丹 8个钓鱼点位（提瓦特/diaoyu41-diaoyu48）
+
 8.10, 渊下宫任务tp点位 (作者不详,如侵权请 [issues](https://github.com/ec-to/Json-Teleport/issues) 联系我)
 
 8.3-8.8，v3.8传心同视活动点位(Shared Sight)
