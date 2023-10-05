@@ -25,7 +25,7 @@ https://github.com/ec-to/Json-Teleport/releases/tag/events
 
 ## 📃更新日志 Update log：
 
-10.4，更新书籍残页-鹮巷物语（千夜故事集待更新）
+10.5，更新书籍残页-鹮巷物语&千夜故事集
 
 8.21，更新4.0枫丹 8个钓鱼点位（提瓦特/diaoyu41-diaoyu48）
 
